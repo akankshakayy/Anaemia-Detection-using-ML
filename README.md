@@ -1,1 +1,2 @@
 # Anaemia-Detection-using-ML
+In this project, we've done done Medical Image Processing using Machine learning. Our objective was to detect whether a person is anaemic or non anaemic using the RAW/DNG images of his/her finger nails. We've trained a CNN model for the prediction and classification of the data sets. We're further working on this project to increase the training accuracy and further move on to model optimization using openVino.
